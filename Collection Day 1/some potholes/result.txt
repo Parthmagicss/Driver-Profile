@@ -1,0 +1,10 @@
+Total number of bumpers    : 0
+Total number of Potholes   : 0
+Total number of Left Turn  : 0
+Total number of Right Turn : 0
+Maximum Speed              : 16.344
+Minimum Speed              : 9.072
+Average Speed              : 12.237597
+Duration                   : 30
+Distance                   : 0.89
+Limit                      : 12
